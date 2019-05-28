@@ -1,3 +1,5 @@
+//Sliding Window - Problem solving pattern
+
 //Naive solution - Time complexity - O(N^2)
 // function maxSubarraySum(arr,subArrSize){
 

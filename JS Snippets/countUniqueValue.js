@@ -1,3 +1,5 @@
+//Multiple Pointers - Problem solving pattern
+
 //Input will be array of sorted values 
 //Output should be Count of unique values present in the array
 //It can have negative numbers too

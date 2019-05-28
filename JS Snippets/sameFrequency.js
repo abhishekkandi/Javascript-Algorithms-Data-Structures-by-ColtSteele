@@ -1,3 +1,5 @@
+//Frequency counter - Problem solving pattern
+
 // My solution
 // function same(array1, array2){
 //     if(array1.length != array2.length){

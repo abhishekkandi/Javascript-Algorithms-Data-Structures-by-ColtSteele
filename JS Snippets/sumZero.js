@@ -1,3 +1,5 @@
+//Multiple Pointers - Problem solving pattern
+
 //Naive Solution with Time complexity - O(N^2) & Space complexity - O(1)
 // function sumZero(arr){
 //     for(let i = 0; i < arr.length; i++){
